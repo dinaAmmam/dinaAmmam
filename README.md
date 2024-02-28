@@ -1,13 +1,13 @@
 # Hello👋, I am Atef  <img align="right" width="250" src="assets/Valorant stickers/Always Watching.png">
 ####
 
-👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of Cross-Platform technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
+👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
 
-💡 If you're curious about Flutter or want to chat, I'm your go-to person! Feel free to reach out to me through my [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNwfvtDDNzfJTHHbzBCFLHrLhhdFmTkqJvVGlZDqGfnjGtrTKHPnHCflSXGfXJwwwQxwCL)
+💡 If you're curious about .NET  or want to chat, I'm your go-to person! Feel free to reach out to me through my Mail atefrehan111@gmai.com
 
 . Let's connect and bring some ideas to life!🌟
 
-🔥 BANKAI
+
 
 
 
