@@ -1,4 +1,4 @@
-# Hello👋, I am Dina  <img align="right" width="250" src="assets/Valorant stickers/Always Watching.png">
+# Hello👋, I am Dina  <img align="right" width="250" src="assets/dody-removebg-preview.png">
 ####
 
 👋 Hey there! 🚀 I'm currently immersed in ITI Intensive Training and diving into the exciting world of .NET technologies. I'm passionate about helping others, collaborating, and crafting awesome things together.
