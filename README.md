@@ -29,6 +29,5 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Github-100000?&logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Stripe-626CD9?&logo=Stripe&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?&logo=apple&logoColor=white)
 
 
